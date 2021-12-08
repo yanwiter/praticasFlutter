@@ -31,9 +31,9 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Pratica17Exer1(),
-     //  home: Pratica17Exer2ValorReal(),
-     // home: Pratica17Exer3Carrossel(),
+      //home: Pratica17Exer1(),
+      //home: Pratica17Exer2ValorReal(),
+      home: Pratica17Exer3Carrossel(),
       // home: Pratica18(),
      // home: Pratica19(),
       //home: Pratica20(),
